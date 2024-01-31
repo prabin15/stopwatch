@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 body{
-  min-height:100vh;
+  min-height:90vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -18,7 +18,7 @@ body{
   padding:20px 30px;
 
   border-radius:30px;
-  min-height:850px;
+  min-height:80vh;
   max-width: 400px;
   
   text-align: center;
@@ -49,7 +49,7 @@ body{
 .main section{
   margin-top:20px;
   position: relative;
-  height:850px;
+  height:80vh;
 }
 .display-time{
   display: flex;
